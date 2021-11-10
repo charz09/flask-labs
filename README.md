@@ -2,7 +2,7 @@
 
 This repository covers exercises in Flask labs.
 
-Click on the relevant tag to access a snapshop of the state of the Blog project at a particular point of the lab tasks completion.
+Click on the relevant tag to access a snapshot of the state of the Blog project at a particular point of the lab tasks completion.
 
 ## Contents:
 
@@ -12,6 +12,7 @@ Click on the relevant tag to access a snapshop of the state of the Blog project 
 | 1.2 | Basic templating, routes, navigation and styling | [part 1.2](https://git.cardiff.ac.uk/scmne/flask-labs/-/tree/part_1.2) |
 | 1.3 | Reorganising the project for Blogging Website | [part 1.3](https://git.cardiff.ac.uk/scmne/flask-labs/-/tree/part_1.3) |
 | 2.1 | Blogging Website: database implementation, dynamic home page| [part 2.1](https://git.cardiff.ac.uk/scmne/flask-labs/-/tree/part_2.1) |
+| 2.2 | Blogging Website: individual post pages| [part 2.2](https://git.cardiff.ac.uk/scmne/flask-labs/-/tree/part_2.2) |
 
 ## Initial Project Setup Required:
 
