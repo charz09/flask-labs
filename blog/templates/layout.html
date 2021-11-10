@@ -15,6 +15,18 @@ filename='style.css') }}">
 <a href="{{ url_for('logout') }}" class="header">Logout</a>
 </div>
 
+<div>
+{% with messages = get_flashed_messages() %}
+  {% if messages %}
+    <ul class=flashes>
+    {% for message in messages %}
+      <li>{{ message }}</li>
+    {% endfor %}
+    </ul>
+  {% endif %}
+{% endwith %}
+</div>
+
 <div id="content">
 {% block content %}
 {% endblock %}

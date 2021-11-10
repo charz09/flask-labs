@@ -14,6 +14,8 @@ Click on the relevant tag to access a snapshot of the state of the Blog project 
 | 2.1 | Blogging Website: database implementation, dynamic home page| [part 2.1](https://git.cardiff.ac.uk/scmne/flask-labs/-/tree/part_2.1) |
 | 2.2 | Blogging Website: individual post pages| [part 2.2](https://git.cardiff.ac.uk/scmne/flask-labs/-/tree/part_2.2) |
 | 3.1 | Blogging Website: user accounts | [part 3.1](https://git.cardiff.ac.uk/scmne/flask-labs/-/tree/part_3.1) |
+| 3.2 | Blogging Website: validation | [part 3.2](https://git.cardiff.ac.uk/scmne/flask-labs/-/tree/part_3.2) |
+
 
 ## Initial Project Setup Required:
 
