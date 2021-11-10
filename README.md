@@ -9,6 +9,8 @@ Click on the relevant tag to access a snapshop of the state of the Blog project 
 | Lab |      Functionality                | Git Tag |
 |------|---------------------------|---------|
 | 1.1 | Basic "Hello World!" page | [part 1.1](https://git.cardiff.ac.uk/scmne/flask-labs/-/tree/part_1.1) |
+| 1.2 | Basic templating, routes, navigation and styling | [part 1.2](https://git.cardiff.ac.uk/scmne/flask-labs/-/tree/part_1.2) |
+
 
 ## Initial Project Setup Required:
 
