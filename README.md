@@ -11,7 +11,7 @@ Click on the relevant tag to access a snapshop of the state of the Blog project 
 | 1.1 | Basic "Hello World!" page | [part 1.1](https://git.cardiff.ac.uk/scmne/flask-labs/-/tree/part_1.1) |
 | 1.2 | Basic templating, routes, navigation and styling | [part 1.2](https://git.cardiff.ac.uk/scmne/flask-labs/-/tree/part_1.2) |
 | 1.3 | Reorganising the project for Blogging Website | [part 1.3](https://git.cardiff.ac.uk/scmne/flask-labs/-/tree/part_1.3) |
-
+| 2.1 | Blogging Website: database implementation, dynamic home page| [part 2.1](https://git.cardiff.ac.uk/scmne/flask-labs/-/tree/part_2.1) |
 
 ## Initial Project Setup Required:
 
