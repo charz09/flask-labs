@@ -15,7 +15,7 @@ Click on the relevant tag to access a snapshot of the state of the Blog project 
 | 2.2 | Blogging Website: individual post pages| [part 2.2](https://git.cardiff.ac.uk/scmne/flask-labs/-/tree/part_2.2) |
 | 3.1 | Blogging Website: user accounts | [part 3.1](https://git.cardiff.ac.uk/scmne/flask-labs/-/tree/part_3.1) |
 | 3.2 | Blogging Website: validation | [part 3.2](https://git.cardiff.ac.uk/scmne/flask-labs/-/tree/part_3.2) |
-
+| 4.0 | Blogging Website: deployment on OpenShift | [part 4.0](https://git.cardiff.ac.uk/scmne/flask-labs/-/tree/part_4.0) |
 
 ## Initial Project Setup Required:
 
